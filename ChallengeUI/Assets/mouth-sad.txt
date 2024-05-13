@@ -1,0 +1,124 @@
+  <g transform='translate(76.000000, 82.000000)'>
+      <g id='Mouth/Concerned' transform='translate(2.000000, 52.000000)'>
+        <defs>
+          <path
+            d='M35.117844,15.1280772 C36.1757121,24.6198025 44.2259873,32 54,32 C63.8042055,32 71.8740075,24.574136 72.8917593,15.0400546 C72.9736685,14.272746 72.1167429,13 71.042767,13 C56.1487536,13 44.7379213,13 37.0868244,13 C36.0066168,13 35.0120058,14.1784435 35.117844,15.1280772 Z'
+            id='Mouth1'
+          />
+        </defs>
+        <mask id='MouthMask1' fill='white'>
+          <use
+            href='#Mouth1'
+            transform='translate(54.003637, 22.500000) scale(1, -1) translate(-54.003637, -22.500000) '
+          />
+        </mask>
+        <use
+          id='Mouth'
+          opacity='0.699999988'
+          fill='#000000'
+          fillRule='evenodd'
+          transform='translate(54.003637, 22.500000) scale(1, -1) translate(-54.003637, -22.500000) '
+          href='#Mouth1'
+        />
+        <rect
+          id='Teeth'
+          fill='#FFFFFF'
+          fillRule='evenodd'
+          mask='url("#MouthMask1")'
+          x='39'
+          y='2'
+          width='31'
+          height='16'
+          rx='5'
+        />
+        <g
+          id='Tongue'
+          strokeWidth='1'
+          fillRule='evenodd'
+          mask='url("#MouthMask1")'
+          fill='#FF4F6D'>
+          <g transform='translate(38.000000, 24.000000)'>
+            <circle id='friend?' cx='11' cy='11' r='11' />
+            <circle id='How-you-doing' cx='21' cy='11' r='11' />
+          </g>
+        </g>
+      </g>
+    </g>
+
+
+  <g transform='translate(76.000000, 82.000000)'>
+      <g
+        id='Mouth/Disbelief'
+        transform='translate(2.000000, 52.000000)'
+        opacity='0.699999988'
+        fill='#000000'>
+        <path
+          d='M40,15 C40,22.7319865 46.2680135,29 54,29 L54,29 C61.7319865,29 68,22.7319865 68,15'
+          id='Mouth'
+          transform='translate(54.000000, 22.000000) scale(1, -1) translate(-54.000000, -22.000000) '
+        />
+      </g>
+    </g>
+
+
+  <g transform='translate(76.000000, 82.000000)'>
+      <g
+        id='Mouth/Sad'
+        transform='translate(2.000000, 52.000000)'
+        opacity='0.699999988'
+        fill='#000000'>
+        <path
+          d='M40.0582943,16.6539438 C40.7076459,23.6831146 46.7016363,28.3768187 54,28.3768187 C61.3416045,28.3768187 67.3633339,23.627332 67.9526838,16.5287605 C67.9840218,16.1513016 67.0772329,15.8529531 66.6289111,16.077395 C61.0902255,18.8502083 56.8805885,20.2366149 54,20.2366149 C51.1558456,20.2366149 47.0072148,18.8804569 41.5541074,16.168141 C41.0473376,15.9160792 40.0197139,16.2363147 40.0582943,16.6539438 Z'
+          id='Mouth'
+          transform='translate(54.005357, 22.188409) scale(1, -1) translate(-54.005357, -22.188409) '
+        />
+      </g>
+    </g>
+
+
+  <g transform='translate(76.000000, 82.000000)'>
+      <g id='Mouth/Scream-Open' transform='translate(2.000000, 52.000000)'>
+        <defs>
+          <path
+            d='M34.0082051,15.1361102 C35.1280248,29.123916 38.2345159,40.9925405 53.9961505,40.9999965 C69.757785,41.0074525 72.9169073,29.0566179 73.9942614,15.0063928 C74.0809675,13.8756222 73.1738581,12.9999965 72.0369872,12.9999965 C65.3505138,12.9999965 62.6703194,14.9936002 53.9894323,14.9999965 C45.3085452,15.0063928 40.7567994,12.9999965 36.0924943,12.9999965 C34.9490269,12.9999965 33.8961688,13.7366502 34.0082051,15.1361102 Z'
+            id='ScreamOpen-path1'
+          />
+        </defs>
+        <mask id='ScreamOpen-mask1' fill='white'>
+          <use
+            href='#ScreamOpen-path1'
+            transform='translate(54.000000, 26.999998) scale(1, -1) translate(-54.000000, -26.999998) '
+          />
+        </mask>
+        <use
+          id='Mouth'
+          opacity='0.699999988'
+          fill='#000000'
+          fillRule='evenodd'
+          transform='translate(54.000000, 26.999998) scale(1, -1) translate(-54.000000, -26.999998) '
+          href='#ScreamOpen-path1'
+        />
+        <rect
+          id='Teeth'
+          fill='#FFFFFF'
+          fillRule='evenodd'
+          mask='url("#ScreamOpen-mask1")'
+          x='39'
+          y='2'
+          width='31'
+          height='16'
+          rx='5'
+        />
+        <g
+          id='Tongue'
+          strokeWidth='1'
+          fillRule='evenodd'
+          mask='url("#ScreamOpen-mask1")'
+          fill='#FF4F6D'>
+          <g transform='translate(38.000000, 32.000000)' id='Say-ahhhh'>
+            <circle cx='11' cy='11' r='11' />
+            <circle cx='21' cy='11' r='11' />
+          </g>
+        </g>
+      </g>
+    </g>
