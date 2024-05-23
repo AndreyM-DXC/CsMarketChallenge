@@ -24,11 +24,11 @@ namespace CsMarketChallenge
         {
             if (player1)
             {
-                return player2 ? (1, 1) : (0, 5);
+                return player2 ? (1, 1) : (5, 0);
             }
             else
             {
-                return player2 ? (5, 0) : (3, 3);
+                return player2 ? (0, 5) : (3, 3);
             }
         }
     }
